@@ -9,7 +9,7 @@ To get the application running locally:
          $ npm install -g create-react-app
 ```
 
-- Clone the repo and cd in to the root folder
+- Clone the repo and using command line move in to the project folder
 
 - Install all required dependencies.
 ```
