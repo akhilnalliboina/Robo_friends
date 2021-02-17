@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/akhilnalliboina/Robo_friends/static/css/main.a60a9fc5.chunk.css",
+    "main.js": "/akhilnalliboina/Robo_friends/static/js/main.48dd6b10.chunk.js",
+    "main.js.map": "/akhilnalliboina/Robo_friends/static/js/main.48dd6b10.chunk.js.map",
+    "runtime-main.js": "/akhilnalliboina/Robo_friends/static/js/runtime-main.46ac2229.js",
+    "runtime-main.js.map": "/akhilnalliboina/Robo_friends/static/js/runtime-main.46ac2229.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/akhilnalliboina/Robo_friends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a5747d58.chunk.js": "/akhilnalliboina/Robo_friends/static/js/2.a5747d58.chunk.js",
+    "static/js/2.a5747d58.chunk.js.map": "/akhilnalliboina/Robo_friends/static/js/2.a5747d58.chunk.js.map",
+    "index.html": "/akhilnalliboina/Robo_friends/index.html",
+    "precache-manifest.0b5cc583c6b450a0c11a415f87d8939f.js": "/akhilnalliboina/Robo_friends/precache-manifest.0b5cc583c6b450a0c11a415f87d8939f.js",
+    "service-worker.js": "/akhilnalliboina/Robo_friends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/akhilnalliboina/Robo_friends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.a60a9fc5.chunk.css.map": "/akhilnalliboina/Robo_friends/static/css/main.a60a9fc5.chunk.css.map",
+    "static/js/2.a5747d58.chunk.js.LICENSE.txt": "/akhilnalliboina/Robo_friends/static/js/2.a5747d58.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/akhilnalliboina/Robo_friends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46ac2229.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a5747d58.chunk.js",
+    "static/css/main.a60a9fc5.chunk.css",
+    "static/js/main.48dd6b10.chunk.js"
+  ]
+}
